@@ -44,9 +44,13 @@ The results are socumented in the table below:
 
 
 **Phase 4**
-At this point, I believed the scope had been narrowed and set appropriately. The final step was to use my own judgement to filter results out. The following is a screenshot result of the search term from Phase 3 yielding 50 results on Google Scholar, but with varying levels of relevance:   
+At this point, I believed the scope had been narrowed and set appropriately. The final step was to use my own judgement to filter results out. The following is a screenshot result of the search term from Phase 3 yielding 50 results on Google Scholar, but with varying levels of relevance:     
+
+![Screenshot of Google Scholar Search results](./Images/4.png)   
+
      
 After filtering out the search terms by myself, in the last phase, I arrived at a sum total of 23 pieces of literature to review within my scope of study. The final search term which would probably translate in some respect to the title of any resultant study would be:
+
 
     
 The Impact of Long-Term Cyber-Bullying on Students of ages 9-12 with ADHD in the United Kingdom since 2020.    
