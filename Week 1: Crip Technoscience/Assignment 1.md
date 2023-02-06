@@ -1,5 +1,5 @@
 # Assignment 1
-[Conducting literature search]      
+(Conducting literature search)      
     
         
         
@@ -16,6 +16,8 @@ The first thing I considered when trying to identify a research topic was positi
 In the first phase, I conducted broad scope searches using google.com, Google Scholar and Google Books. The search terms yielded a large amount of results. While the results were a good introductory point, I knew i had to narrow down research scope and hence the search terms. Studying effects as a whole would yield a seemingly infinite number of resources. So i decided to narrow down the scope by choosing to focus on the adverse effects. I searches by adding keywords such as 'adverse', 'negative', and 'ill-effects' (most commonly used synonyms in this context, according to my own judgement). The search terms still yielded far too many results, especially google.com given it provides one with media of all kind. The results of phase 1 are documented in the table below.     
 Following an intriduction to the ill-effects, I decided to narrow down the results further by filtering out specific effects. I decided it made sense to find literature for specific causes of the ill-effects rather than the effects themselves i.e. 'bullying', 'insecurity', etc. I chose to focus on the relationship between ADHD and bullying, searching for 'bullying' as a part of the search term specifically agnostic to mentions of other terms such as 'social anxiety', 'depression', 'development', and 'growth'. In order to capture the essence of what I was trying to find, I decided to include the keyword 'impact' in my searches too.   
 
+![Table Showing Phase 1 search terms and Success Rate](./Images/1.png)       
+
 
   
 **Phase 2**
@@ -27,7 +29,8 @@ I had identified keywords that worked for me: 'adhd', 'impacts', 'adverse', midd
 - Would the adverse effects shown different trends when filtered by the gender identity of the perpetrator and/or the victim? Could I choose to study a smaller scope within the same?
 
 I finally landed on studying the 'adverse impact of long term bullying in schools on students between the ages 9-13 with ADHD'. The searches yielded far fewer results, but still too large to commit as the scope of a literature review for a hypothetical 3000 word essay. The results are captured below:   
-
+   
+![Table Showing Phase 2 search terms and Success Rate](./Images/2.png)   
 
 
 **Phase 3**
