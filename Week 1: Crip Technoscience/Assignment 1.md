@@ -40,7 +40,7 @@ While Phase 2 improved on narrowing the scope furthewr, it was immediately clear
 - Was 9-13 the most relevant age range? Do cognitive development and growth studies ascertain a different age range that is more relevant to being grouped and studying?
 
 I landed on the search scope of 'The adverse impact of long term cyber-bullying on students of ages 9-12 with ADHD in schools in the UK from 2020 to present'
-The results are socumented in the table below:    
+By this point, I had dropped Google.com as a source. Instead, I used Google Scholar, ResearchGate, Academia.edu, the CCI Library, etc. at Phase 3 to look for results. I found varying amounts of success with each using truncation and Boolean operations to land my result, with Google Scholar providing the largest number and the most relevant results consistently accross search terms.
 
 
 **Phase 4**
